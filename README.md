@@ -1,5 +1,3 @@
-# gk-software
-
 ## Description
 
 This is a proof of concept demonstrating the use of **AskUI** to automate desktop devices.
@@ -112,4 +110,3 @@ After execution, the agent generated this [Execution Report.](./reports/20250923
    ```bash
    python ./act.py
    ```
-# AskUI-Demo
